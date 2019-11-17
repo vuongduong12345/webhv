@@ -1,0 +1,493 @@
+*{
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+}
+header.header {
+	width: 100%;
+	min-height: 100px;
+}
+div.container{
+	width: 980px;
+	margin: auto;
+}
+nav{
+	width: 100%;
+	min-height: 30px;
+	background-color: red;
+}
+ul li{
+	text-align: left;	
+}
+nav ul li{
+	list-style: none;
+	display: inline-block;
+	line-height: 30px;
+	padding: 0px 15px;
+}
+nav ul li a {
+	text-decoration: none;
+	color: white;
+}
+nav ul li i. {
+	color: white;
+}
+div.input {
+	width: 980px;
+	height: 32px;
+	margin: auto;
+	/*background-color: #666666;*/
+}
+input.input1 {
+	width: 750px;
+	height: 30px;
+	border: 1px solid #666666;
+}
+input.input2 {
+	width: 148px;
+	height: 30px;
+	border: 1px solid #666666;
+}
+input.input3 {
+	width: 70px;
+	height: 31px;
+	border: 1px solid #666666;
+}
+main{
+	width: 100%;
+	min-height: 800px;
+}
+/* end css main*/
+main section.content-left{
+	width: 60%;
+	height: 100%;
+	float: left;	
+}
+main section.content-left section.content{
+	width: 100%;
+	min-height: 520px;	
+}
+main section.content-left section.content div.anh {
+	width: 100%;
+	height: 310px;
+}
+main section.content-left section.content div.anh img {
+	width: 99%;
+	height: 300px;
+}
+div.content-1 {
+	width: 33%;
+	height: 200px;
+	float: left;	
+}
+div.content-1 p:hover {
+	color: #AA0000;
+}
+div.content-2 {
+	width: 33%;
+	height: 200px;
+	float: left;	
+	padding: 0px 2px;
+}
+div.content-2 p:hover {
+	color: #AA0000;
+}
+div.content-3 {
+	width: 33%;
+	height: 200px;
+	float: left;	
+}
+div.content-3 p:hover {
+	color: #AA0000;
+}
+div.post {
+	width: 20%;
+	float: left;
+	height: 520px;
+	background-color: #EEEEEE;
+}
+div.sidebar {
+	width: 20%;
+	float: left;
+	height: 400px;
+	/*background-color:white;*/
+}
+main div.aside-right div.post img{
+	padding:5px;
+}
+div.sidebar img {
+	padding:0px 0px 20px 4px;
+}
+ p {
+	text-align: center;
+	margin: 10px 2px;
+}
+main div.aside-right div.post p:hover {
+	color: #AA0000;
+}
+div.container0 {
+	width: 980px;
+	height: 30px;
+	background-color: black;
+	margin: auto;
+}
+div.container0 div.container01 {
+	width: 150px;
+	height: 30px;
+	background-color: red;
+}
+div.container0 div.container01 h3 {
+	color: white;
+	text-align: center;
+	padding: 5px 5px; 
+}
+div.container1 {
+	width: 980px;
+	height: 250px;
+	/*background-color: #EEEEEE;*/
+}
+div.container1 div.container11 {
+	width: 155px;
+	height: 250px;
+	float: left;
+	margin: 10px 4px;
+	/*border-bottom: 5px solid white;*/
+	/*background-color: yellow;*/
+}
+div.container1 div.container11 p:hover {
+	color: #AA0000;
+}
+div.hv {
+	width: 100%;
+	height: 1800px;
+	/*background-color: pink;*/ 
+}
+div.hv div.truong {
+	width: 980px;
+	margin: auto;
+}
+div.hv div.truong div.lop {
+	width: 70%;
+	float: left;
+	height: 800px;
+	/*background-color: yellow;*/
+}
+div.hv div.truong div.lop div.lop1 {
+	width: 100%;
+	min-height: 400px;
+	/*background-color: blue;*/
+}
+div.lop1 div.lop1a{
+	width: 100%;
+	height: 30px;
+	background-color: #EEEEEE;
+	border-top: 2px solid black;
+}
+div.lop1a h3 {
+	padding: 3px 3px;
+}
+div.lop1a div.lop1a1 {
+	width: 40%;
+	height: 35px;
+	float: left;	
+}
+div.lop1a div.lop1a2 {
+	width: 29%;
+	height: 30px;
+	float: left;
+	border-right: 1px solid #666666;
+}
+div.lop1a div.lop1a2 p {
+	margin:3px 3px;
+}
+div.lop1a div.lop1a3 {
+	width: 30%;
+	height: 30px;
+	float: left;
+}
+div.lop1a div.lop1a3 p {
+	margin:3px 3px;
+}
+div.lop1 div.lop1b {
+	width: 100%;
+	height: 400px;
+	margin-top: 5px;
+}
+div.lop1b div.lop1b1 {
+	width: 50%;
+	height: 400px;
+	float: left;
+}
+div.lop1b div.lop1b2 {
+	width: 25%;
+	height: 400px;
+	float: left;
+
+}
+div.lop1b div.lop1b3 {
+	width: 25%;
+	height: 400px;
+	float: left;
+}
+div.lop div.lop2 {
+	width: 100%;
+	min-height: 400px;
+}
+div.lop2 div.lop2a {
+	width: 100%;
+	height: 35px;
+	background-color: #EEEEEE;
+	border-top: 2px solid black;
+	border-bottom: 1px solid #666666;
+}
+div.lop2a h3 {
+	padding: 5px 0px 5px 5px;
+}
+div.lop2 div.lop2b {
+	width: 100%;
+	height: 40px;
+	/*background-color: white;*/
+}
+div.lop2b div.lop2b1 {
+	width: 21%;
+	height: 35px;
+	float: left;
+	border-right: 1px solid #666666;
+}
+div.lop2b div.lop2b2 {
+	width: 14%;
+	height: 35px;
+	float: left;
+	border-right: 1px solid #666666;
+}
+div.lop2 div.lop2c {
+	width: 100%;
+	height: 300px;
+}
+div.lop2c div.lop2c1 {
+	width: 47%;
+	height: 300px;
+	float: left;
+	/*padding-right: 5px;*/
+	/*background-color: green;*/
+}
+div.lop2c div.lop2c1 img {
+	width: 100%;
+	height: 200px;
+}
+div.lop2c div.lop2c2 {
+	width: 50%;
+	height: 300px;
+	float: left;
+	padding-left: 8px;
+	/*background-color: blue;*/
+}
+div.lop2c2 img {
+	width: 50%;
+	height: 100px;
+	float: left;
+}
+div.lop2c2 div.p {
+	width: 50%;
+	height: 100px;
+	float: left;
+}
+div.lop2c2 div.lop2c3 p{
+	text-align: left;
+	border-bottom: 1px solid #666666;
+}
+div.lop2c3 p{
+
+}
+div.hv div.truong div.lop div.lop3 {
+	width: 100%;
+	min-height: 400px;
+/*	background-color: red;*/
+}
+div.lop3 div.lop3a {
+	width: 100%;
+	height: 45px;
+	background-color: #EEEEEE;
+	border-top: 2px solid black;
+	border-bottom: 1px solid #666666;
+}
+div.lop3a div.lop3a1 {
+	width: 23%;
+	height: 40px;
+	float: left;
+	border-right: 1px solid #666666;
+}
+div.lop3a1 h3 {
+	padding: 10px 0px 5px 5px;
+	text-align: left;
+}
+div.lop3a div.lop3a2 {
+	width: 15%;
+	height: 40px;
+	float: left;
+	border-right: 1px solid #666666;
+}
+div.lop3 div.lop3b {
+	width: 100%;
+	height: 320px;
+	margin-top: 10px;
+	/*background-color: green;*/
+}
+div.lop3b div.lop3b1 {
+	width: 27%;
+	height: 320px;
+	float: left;
+	padding: 0px 5px;
+}
+div.lop3b div.lop3b1 p {
+	text-align: left;
+}
+div.lop3b div.lop3b2 {
+	width: 20%;
+	height: 320px;
+	float: left;
+	padding-left: 5px;
+}
+div.lop3b div.lop3b2 p {
+	text-align: left;
+}
+div.hv div.truong div.lop div.lop4 {
+	width: 100%;
+	min-height: 200px;
+	/*background-color: orange;*/
+}
+div.lop4 div.lop4a {
+	width: 100%;
+	height: 35px;
+	background-color: #EEEEEE;
+	border-top: 2px solid black;
+	border-bottom: 1px solid #666666;
+}
+div.lop4a div.lop4a1 {
+	width: 24%;
+	height: 35px;
+	float: left;
+}
+div.lop4a1 h3 {
+	padding: 10px 0px 5px 5px;
+	text-align: left;
+}
+div.lop4a div.lop4a2 {
+	width: 25%;
+	height: 35px;
+	float: left;
+	border-right: 2px solid #666666;
+}
+div.lop4 div.lop4b {
+	width: 100%;
+	height: 200px;
+	margin-top: 15px;
+}
+div.lop4b div.lop4b1 {
+	width: 23%;
+	height: 160px;
+	float: left;
+	margin: 10px 5px;
+}
+div.lop4b div.lop4b1 p {
+	width: 100%;
+	height: 40px;
+	margin-top: 35px;
+	text-align: left;
+}
+div.hv div.truong div.lop div.lop5 {
+	width: 980px;
+	min-height: 200px;
+	/*background-color: violet;*/
+	margin: auto;
+}
+div.lop5 div.lop5a {
+	width: 100%;
+	height: 30px;
+	background-color: black;
+	margin-bottom: 15px;
+	/*float: left;*/
+}
+div.lop5a div.lop5a1 {
+	width: 20%;
+	height: 30px;
+	background-color: red;
+	/*float: left;*/
+}
+div.lop5a1 h3{
+	text-align: center;
+	padding: 5px 5px; 
+}
+div.sk div.sk1 {
+	width: 25%;
+	height: 200px;
+	float: left;
+	/*background-color: yellow;*/
+}
+div.sk1 img {
+	width: 90%;
+	height: 140px;
+}
+footer{
+	width: 980px;
+	height: 60px;
+	margin: auto;
+	/*background-color: white;*/
+	border-top: 2px solid #666666;
+}
+footer p {
+	color: red;
+	/*padding: 15px 0px;*/
+}
+div.aside {
+	width: 23%;
+	float: left;
+	/*background-color: yellow;*/
+	height: 800px;
+}
+div.aside div.video {
+	width: 100%;
+	height: 200px;
+	margin-bottom: 15px;
+}
+div.video video {
+	width: 100%;
+	height: 200px;
+
+}
+div.aside div.tin {
+	width: 100%;
+	height: 35px;
+	border-top: 3px solid black;
+	border-bottom: 1px solid #666666;
+	background-color: #EEEEEE;
+}
+div.aside div.fan {
+	width: 100%;
+	height: 35px;
+	margin-top: 10px;
+	background-color: #EEEEEE;
+	border-top: 3px solid black; 
+}
+
+div.aside div.anh {
+	width: 100%;
+	height: 150px;
+}
+div.anh img {
+	width: 100%;
+	height: 150px;
+}
+div.box{
+	width: 100%;
+	height: 100px;
+	border: 1px solid #666666;
+	/*overflow: hidden;*/
+	/*overflow: scroll;*/
+	/*over đọc chữ trong ô*/
+	overflow-y: scroll;
+	/*mất thanh ngang*/
+}
+
+
+
